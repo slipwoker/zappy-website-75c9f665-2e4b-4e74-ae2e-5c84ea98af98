@@ -1,0 +1,84 @@
+# משה שירותי השמה — Generative Engine Optimization Map
+
+> A recruitment and staffing services company focused on connecting employers with suitable candidates. The business operates in the HR and talent acquisition space, offering professional placement and hiring solutions.
+
+---
+
+## Pages
+
+### בית
+https://-75c9f665.zappy5.app
+מחפשים עובדים איכותיים לעסק? משה שירותי השמה מתמחים בגיוס והשמה ממוקדים שמביאים תוצאות. התאמה מדויקת, מהירה ואמינה לכל תפקיד. הצטרפו לאלפי מעסיקים מרוצים והתחילו לגייס חכם יותר עוד היום!
+
+### שירותים
+https://-75c9f665.zappy5.app/services
+מגוון פתרונות גיוס והשמה מותאמים אישית: מאיתור עובדים למפעלים ועד גיוס עובדים לעסקים קטנים. צוות המומחים שלנו דואג להתאמה מושלמת בין מועמדים למשרות. גלו איך נהפוך את תהליך הגיוס שלכם למהיר, פשוט ורווחי.
+
+### אודות
+https://-75c9f665.zappy5.app/about
+משה שירותי השמה היא חברת השמה מובילה עם ניסיון עשיר בגיוס עובדים איכותיים. אנחנו מאמינים בחיבור אנושי, מקצועיות חסרת פשרות והתאמה אישית לכל מעסיק. קראו על החזון, הערכים והצוות שמוביל את תחום הגיוס וההשמה בישראל.
+
+### צור קשר
+https://-75c9f665.zappy5.app/contact
+מוכנים לגייס את העובדים הטובים ביותר? צרו קשר עם משה שירותי השמה עוד היום! בין אם אתם זקוקים לגיוס עובדים למפעלים או למשרד, נחזור אליכם במהירות עם פתרון מותאם. מלאו את הפרטים והשאירו את מלאכת הגיוס וההשמה בידיים הטובות ביותר.
+
+### תודה על פנייתך
+https://-75c9f665.zappy5.app/thank-you
+משה שירותי השמה - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-75c9f665.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-75c9f665.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-75c9f665.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-75c9f665.zappy5.app/contact
+- Endpoint: https://-75c9f665.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משה שירותי השמה
+A recruitment and staffing services company focused on connecting employers with suitable candidates. The business operates in the HR and talent acquisition space, offering professional placement and hiring solutions.
+
+## Target Audience
+- מנהלי משאבי אנוש
+- חברות ייצור
+- מנהלים
+- מנהלי מכירות
+- מנהלי תפעול
+
+## Industry
+Recruitment & Staffing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-75c9f665.zappy5.app/sitemap.xml
+- Robots: https://-75c9f665.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-75c9f665.zappy5.app/llms-full.txt
