@@ -44,7 +44,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 053-771-2488
+- Phone (tel): tel:0537712488
 
 ### Contact form
 - URL: https://example.com/contact
