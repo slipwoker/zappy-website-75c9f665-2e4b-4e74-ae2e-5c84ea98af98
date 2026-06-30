@@ -6559,6 +6559,28 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-services-section .index-services-section__card-icon-wrap {
+  width: 100% !important;
+  height: auto !important;
+  max-width: none !important;
+}
+
+.index-services-section .index-services-section__card-icon-wrap img {
+  width: 100% !important;
+  height: 180px !important;
+  object-fit: cover !important;
+}
+/* zappy-self-heal */
+.index-services-section .index-services-section__card-icon-wrap { width: 100% !important; }
+.index-services-section .index-services-section__card-icon-wrap { height: auto !important; }
+.index-services-section .index-services-section__card-icon-wrap img { width: 100% !important; }
+
+/* zappy-self-heal */
+html body .index-services-section .index-services-section__card-icon-wrap { width: 100% !important; }
+html body .index-services-section .index-services-section__card-icon-wrap { height: auto !important; }
+html body .index-services-section .index-services-section__card-icon-wrap img { width: 100% !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
