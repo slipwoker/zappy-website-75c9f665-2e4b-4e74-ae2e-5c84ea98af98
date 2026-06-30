@@ -47,7 +47,7 @@ Information about WCAG compliance and accessibility features.
 - Email: wanono555@gmail.com
 - Phone: 053-771-2488
 - Phone (tel): tel:0537712488
-- Address: מבצע ליטני, קריית מלאכי , אסיה, 83050, ישראל
+- Address: מבצע ליטני , קריית מלאכי , אסיה, 83050, ישראל
 
 ### Contact form
 - URL: https://moshe-placement-services.zappy5.app/contact
