@@ -47,7 +47,7 @@ Information about WCAG compliance and accessibility features.
 - Email: wanono555@gmail.com
 - Phone: 053-771-2488
 - Phone (tel): tel:0537712488
-- Address: מבצע ליטני, קריית מלאכי , ישראל
+- Address: מבצע ליטני, קריית מלאכי , אסיה, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
